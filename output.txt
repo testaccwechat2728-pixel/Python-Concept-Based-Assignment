@@ -1,0 +1,49 @@
+================================================================================
+  EDUTRACK: SMART STUDENT ATTENDANCE & PERFORMANCE ANALYTICS SYSTEM
+  Academic Year: 2026-2027 | Department: CSE-AI & ML | Semester: III
+================================================================================
+
+[STEP 1] Current Enrolled Students & Attendance Status:
+
+==========================================================================================
+ID     Name               Dept         Attendance     GPA      Defaulter Status         
+------------------------------------------------------------------------------------------
+S101   Aarav Sharma       CSE-AI&ML    36/40 (90.0%)  8.67     Eligible / Regular (>= 75%)
+S102   Diya Patel         CSE-AI&ML    32/40 (80.0%)  7.77     Eligible / Regular (>= 75%)
+S103   Rohan Kulkarni     CSE-AI&ML    26/40 (65.0%)  6.5      Moderate Defaulter (50% - 75%)
+S104   Sneha Deshmukh     CSE-AI&ML    22/40 (55.0%)  5.83     Moderate Defaulter (50% - 75%)
+S105   Sumit Kakade       CSE-AI&ML    16/40 (40.0%)  7.13     Major Defaulter (21% - 50%)
+S106   Aditya Joshi       CSE-AI&ML    14/40 (35.0%)  4.9      Major Defaulter (21% - 50%)
+S107   Kavya Verma        CSE-AI&ML    6/40 (15.0%)   3.9      Critical Defaulter (< 20%)
+==========================================================================================
+
+[STEP 2] Performance Analytics & Defaulters Categorization:
+
+========================================================================
+          EDUTRACK STUDENT PERFORMANCE & DEFAULTER REPORT          
+========================================================================
+Total Students Enrolled: 7
+Class Average Attendance: 54.29%
+Class Average GPA:        6.39 / 10.0
+------------------------------------------------------------------------
+Eligible Students (>= 75%):       2
+Moderate Defaulters (50% - 75%):   2
+Major Defaulters (21% - 50%):      2
+Critical Defaulters (< 20%):       1
+========================================================================
+
+--- MAJOR DEFAULTERS (21% - 50% Attendance) ---
+ * [S105] Sumit Kakade - Attendance: 40.0% | Tasks: HackerRank + Lab Re-performance + Mini Project
+ * [S106] Aditya Joshi - Attendance: 35.0% | Tasks: HackerRank + Lab Re-performance + Mini Project
+
+--- MODERATE DEFAULTERS (50% - 75% Attendance) ---
+ * [S103] Rohan Kulkarni - Attendance: 65.0% | Tasks: Extra Assignment + MCQ + Presentation
+ * [S104] Sneha Deshmukh - Attendance: 55.0% | Tasks: Extra Assignment + MCQ + Presentation
+
+[STEP 3] Exporting Data to CSV Spreadsheet:
+[Success] Exported records to students_export.csv
+
+[STEP 4] Database Persistence Status: Verified (students_db.json)
+================================================================================
+  DEMONSTRATION COMPLETED SUCCESSFULLY
+================================================================================

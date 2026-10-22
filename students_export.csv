@@ -1,0 +1,8 @@
+Student ID,Name,Department,Division,Total Sessions,Attended Sessions,Attendance %,GPA,Defaulter Status
+S101,Aarav Sharma,CSE-AI&ML,SY-A,40,36,90.0%,8.67,Eligible / Regular (>= 75%)
+S102,Diya Patel,CSE-AI&ML,SY-A,40,32,80.0%,7.77,Eligible / Regular (>= 75%)
+S103,Rohan Kulkarni,CSE-AI&ML,SY-A,40,26,65.0%,6.5,Moderate Defaulter (50% - 75%)
+S104,Sneha Deshmukh,CSE-AI&ML,SY-A,40,22,55.0%,5.83,Moderate Defaulter (50% - 75%)
+S105,Sumit Kakade,CSE-AI&ML,SY-A,40,16,40.0%,7.13,Major Defaulter (21% - 50%)
+S106,Aditya Joshi,CSE-AI&ML,SY-A,40,14,35.0%,4.9,Major Defaulter (21% - 50%)
+S107,Kavya Verma,CSE-AI&ML,SY-A,40,6,15.0%,3.9,Critical Defaulter (< 20%)

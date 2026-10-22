@@ -1,0 +1,128 @@
+[
+    {
+        "student_id": "S101",
+        "name": "Aarav Sharma",
+        "department": "CSE-AI&ML",
+        "division": "SY-A",
+        "attendance": {
+            "total_sessions": 40,
+            "attended_sessions": 36,
+            "percentage": 90.0
+        },
+        "marks": {
+            "Python": 88,
+            "Data Structures": 82,
+            "AI Basics": 90
+        },
+        "gpa": 8.67,
+        "defaulter_status": "Eligible / Regular (>= 75%)"
+    },
+    {
+        "student_id": "S102",
+        "name": "Diya Patel",
+        "department": "CSE-AI&ML",
+        "division": "SY-A",
+        "attendance": {
+            "total_sessions": 40,
+            "attended_sessions": 32,
+            "percentage": 80.0
+        },
+        "marks": {
+            "Python": 78,
+            "Data Structures": 75,
+            "AI Basics": 80
+        },
+        "gpa": 7.77,
+        "defaulter_status": "Eligible / Regular (>= 75%)"
+    },
+    {
+        "student_id": "S103",
+        "name": "Rohan Kulkarni",
+        "department": "CSE-AI&ML",
+        "division": "SY-A",
+        "attendance": {
+            "total_sessions": 40,
+            "attended_sessions": 26,
+            "percentage": 65.0
+        },
+        "marks": {
+            "Python": 65,
+            "Data Structures": 60,
+            "AI Basics": 70
+        },
+        "gpa": 6.5,
+        "defaulter_status": "Moderate Defaulter (50% - 75%)"
+    },
+    {
+        "student_id": "S104",
+        "name": "Sneha Deshmukh",
+        "department": "CSE-AI&ML",
+        "division": "SY-A",
+        "attendance": {
+            "total_sessions": 40,
+            "attended_sessions": 22,
+            "percentage": 55.0
+        },
+        "marks": {
+            "Python": 58,
+            "Data Structures": 55,
+            "AI Basics": 62
+        },
+        "gpa": 5.83,
+        "defaulter_status": "Moderate Defaulter (50% - 75%)"
+    },
+    {
+        "student_id": "S105",
+        "name": "Sumit Kakade",
+        "department": "CSE-AI&ML",
+        "division": "SY-A",
+        "attendance": {
+            "total_sessions": 40,
+            "attended_sessions": 16,
+            "percentage": 40.0
+        },
+        "marks": {
+            "Python": 72,
+            "Data Structures": 68,
+            "AI Basics": 74
+        },
+        "gpa": 7.13,
+        "defaulter_status": "Major Defaulter (21% - 50%)"
+    },
+    {
+        "student_id": "S106",
+        "name": "Aditya Joshi",
+        "department": "CSE-AI&ML",
+        "division": "SY-A",
+        "attendance": {
+            "total_sessions": 40,
+            "attended_sessions": 14,
+            "percentage": 35.0
+        },
+        "marks": {
+            "Python": 50,
+            "Data Structures": 45,
+            "AI Basics": 52
+        },
+        "gpa": 4.9,
+        "defaulter_status": "Major Defaulter (21% - 50%)"
+    },
+    {
+        "student_id": "S107",
+        "name": "Kavya Verma",
+        "department": "CSE-AI&ML",
+        "division": "SY-A",
+        "attendance": {
+            "total_sessions": 40,
+            "attended_sessions": 6,
+            "percentage": 15.0
+        },
+        "marks": {
+            "Python": 40,
+            "Data Structures": 35,
+            "AI Basics": 42
+        },
+        "gpa": 3.9,
+        "defaulter_status": "Critical Defaulter (< 20%)"
+    }
+]
